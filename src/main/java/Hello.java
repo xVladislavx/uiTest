@@ -9,4 +9,7 @@ public class Hello {
         Date date = new Date();
         System.out.println(date);
     }
+    public static void Speak(){
+        System.out.println("RRREEEEEEEEEE!!!!!!");
+    }
 }
